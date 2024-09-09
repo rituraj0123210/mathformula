@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">All Maths Formulas</string>
+
+    <string-array name="title">
+
+        <item>Logarithm</item>
+        <item>Trignomerty</item>
+        <item>Quadratic</item>
+        <item>Sequence Series</item>
+        <item>Permutation - Combination</item>
+        <item>Binomial</item>
+        <item>Complex Number</item>
+        <item>Determinant and Matrices</item>
+        <item>Straight Line</item>
+        <item>Circle</item>
+        <item>Parabola</item>
+        <item>Ellipse</item>
+        <item>Hyperbola</item>
+        <item>Function</item>
+        <item>ITF</item>
+        <item>Limit</item>
+        <item>Continuity - Differentiability</item>
+        <item>Differentiation</item>
+        <item>Integration</item>
+        <item>Differential Equation</item>
+        <item>Area Under Curve</item>
+        <item>Vector</item>
+        <item>3D</item>
+        <item>Probability</item>
+        <item>Statistics</item>
+        <item>Mathematical Reasoning</item>
+        <item>Set</item>
+        <item>Relation</item>
+
+
+
+    </string-array>
+
+<string name="admobapp_id">ca-app-pub-5237360090652941~1784008893</string>
+    <string name="banner_id">ca-app-pub-5237360090652941/7858516559</string>
+    <string name="open_ad">ca-app-pub-5237360090652941/5910934082</string>
+    <string name="interstitial_id">ca-app-pub-5237360090652941/7130917925</string>
+
+
+    <!--        <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <!--    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--    <string name="AdMob_Native">ca-app-pub-3940256099942544/2247696110</string>-->
+<!--        <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--    <string name="rewarded_id">ca-app-pub-3940256099942544/5224354917</string>-->
+
+
+</resources>
